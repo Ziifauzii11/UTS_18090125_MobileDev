@@ -1,0 +1,2 @@
+id/rdev/catatanpenjualan/BuildConfig.java
+ id.rdev.catatanpenjualan.BuildConfig
